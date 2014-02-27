@@ -214,6 +214,7 @@ INSTALLED_APPS = (
     'twitter_tag',
     'crispy_forms',
     'debug_toolbar',
+    'django_tables2',
     'social.apps.django_app.default',
     'django.contrib.auth',
     'django.contrib.contenttypes',
