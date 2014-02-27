@@ -85,6 +85,11 @@ table th {
 	text-align: left; 
 }
 
+table th a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
 table td { 
 	padding: 5px; 
 	border: 1px solid #aaaaaa; 
